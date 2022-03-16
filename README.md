@@ -33,4 +33,3 @@ And always seeking new challenges to expand knowledge and experience.
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasit73&show_icons=true&locale=en" alt="hasit73" /></p>
